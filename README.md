@@ -1,7 +1,7 @@
-🌟 My Portfolio
 
+**🌟 My Portfolio**
 
-Welcome to my portfolio! This website showcases my work, skills, and projects, built using HTML, CSS, and JavaScript. 
+**Welcome to my portfolio!** This website showcases my work, skills, and projects, built using **HTML, CSS, and JavaScript**. 
 
 I designed this portfolio to highlight my expertise in web development and creativity in design. 
 
