@@ -2,4 +2,6 @@
 
 I designed this portfolio to highlight my expertise in web development and creativity in design. 
 
-Feel free to explore my projects, learn more about my experience, and reach out if you'd like to collaborate!
+Feel free to explore my project, learn more about my experience, and reach out if you'd like to collaborate!
+
+
