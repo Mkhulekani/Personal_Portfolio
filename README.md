@@ -1,5 +1,5 @@
 
-**🌟 My Portfolio**
+# 🌟 My Portfolio
 
 **Welcome to my portfolio!** This website showcases my work, skills, and projects, built using **HTML, CSS, and JavaScript**. 
 
