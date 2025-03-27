@@ -29,7 +29,6 @@ Feel free to explore my projects, learn more about my experience, and reach out 
 ### *JavaScript*
 
   - **Libraries**: Used React for efficient and flexible user interfaces.
-  - **DOM Manipulation**: Used React’s Virtual DOM for efficient updates.
   - **Event Handling**: Used React’s event handling mechanisms for interactive elements.
   - **Design Patterns**: Applied Singleton and Factory patterns for separation of concerns.
   - **Error Handling**: Implemented try-catch blocks and used debugging tools for better reliability.
