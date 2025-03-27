@@ -9,18 +9,6 @@ Feel free to explore my projects, learn more about my experience, and reach out 
 
 ---
 
-### 🔗 **[Live Portfolio: Click here to view]**
-
-### 💬 **Chatbox Integration**
-
-I have integrated a **Botpress-powered chatbox** into my portfolio. This chatbox is designed to answer all the questions users may ask regarding my portfolio, projects, and experience.
-
-🛠️ **Tech Used**: Botpress (AI Chatbot)
-
-👉 **Try it out on my portfolio! 🚀**
-
----
-
 ## Features
 
 ### *HTML*
@@ -45,6 +33,20 @@ I have integrated a **Botpress-powered chatbox** into my portfolio. This chatbox
   - **Event Handling**: Used React’s event handling mechanisms for interactive elements.
   - **Design Patterns**: Applied Singleton and Factory patterns for separation of concerns.
   - **Error Handling**: Implemented try-catch blocks and used debugging tools for better reliability.
+
+### 🔗 **[Live Portfolio: Click here to view]**
+
+### 💬 **Chatbox Integration**
+
+I have integrated a **Botpress-powered chatbox** into my portfolio. This chatbox is designed to answer all the questions users may ask regarding my portfolio, projects, and experience.
+
+🛠️ **Tech Used**: Botpress (AI Chatbot)
+
+👉 **Try it out on my portfolio! 🚀**
+
+---
+
+
 
 
 
