@@ -33,7 +33,7 @@ Feel free to explore my projects, learn more about my experience, and reach out 
   - **Design Patterns**: Applied Singleton and Factory patterns for separation of concerns.
   - **Error Handling**: Implemented try-catch blocks and used debugging tools for better reliability.
 
-### 🔗 **[Live Portfolio: Click here to view]**
+### 🔗 **[Live Portfolio: Click here to view](https://mkhulekani.github.io/New/style.html)**
 
 ### 💬 **Chatbox Integration**
 
@@ -42,6 +42,7 @@ I have integrated a **Botpress-powered chatbox** into my portfolio. This chatbox
 🛠️ **Tech Used**: Botpress (AI Chatbot)
 
 👉 **Try it out on my portfolio! 🚀**
+
 
 ---
 
